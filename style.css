@@ -1,0 +1,28 @@
+body{
+    background-color: #2F4F4F;
+}
+
+h1{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+table{
+    width: 640px;
+    margin:0 auto;
+    background-image: url(/hatter.jpg);
+    
+}
+
+.keret{
+    border: solid 1px black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:visited{
+    color: black;
+}
+

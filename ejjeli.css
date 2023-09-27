@@ -1,0 +1,21 @@
+table{
+    background-color: #2F4F4F;
+    color: white;
+    
+}
+.ballra{
+    float: left;
+}
+.jobbra{
+    float: right;
+}
+#keret{
+    border: solid 1px black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:visited{
+    color: white;
+}
